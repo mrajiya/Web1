@@ -1,0 +1,25 @@
+{
+  "name": "cw1",
+  "version": "1.0.0",
+  "main": "lessons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abubakarkachallah/CW1-individual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abubakarkachallah/CW1-individual/issues"
+  },
+  "homepage": "https://github.com/Abubakarkachallah/CW1-individual#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0"
+  },
+  "description": ""
+}
